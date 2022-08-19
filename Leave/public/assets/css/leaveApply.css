@@ -1,0 +1,47 @@
+.container{
+    /* border: 1px solid black; */
+    position: relative;
+    left: 600px;
+    top: 300px;
+    width: 600px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.title-leave{
+    text-align: center;
+    background-color: skyblue;
+    padding: 10px;
+}
+.elements{
+    margin: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.elements label
+{
+    width: 50%;
+}
+.elements input
+{
+    width: 50%;
+    padding: 7px;
+}
+.elements select
+{
+    width: 50%;
+    padding: 7px;
+}
+textarea{
+    resize: none;
+    width: 50%;
+    padding: 7px;
+}
+.btn
+{
+    width: 50%;
+    margin-left: 130px;
+    padding: 10px;
+    background-color: blue;
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
