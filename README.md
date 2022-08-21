@@ -24,7 +24,7 @@ In Admin page - Admin added or update or delete the employees,managers and leave
 
 In Employee Login,
 Email:saravana09@gmail.com
-Password : saravana98
+Password : saravana78
 
 After login it goes to the Employee dashboard
 In Employee dashboard :
