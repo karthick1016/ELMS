@@ -17,7 +17,7 @@ In Admin login,
 Username : Karthick
 Password : karthi1016
 
-After login it goes to the Admin page 
+After login it goes to the Admin page. 
 In Admin page - Admin added or update or delete the employees,managers and leave types and assign employees to the managers.
 
 2.Employee Dashboard
@@ -28,9 +28,9 @@ Password : saravana78
 
 After login it goes to the Employee dashboard
 In Employee dashboard :
-1.It shows the login employee details
+1.It shows the employee login details
 2.leave request page - It has leave request form for send the leave request to manager
-3.leave details page - it has leave details also whether the manager approve the leave or decline the leave
+3.leave details page - It has leave details also whether the manager approve the leave or decline the leave
 
 3.Manager Dashboard
 
